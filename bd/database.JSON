@@ -26,5 +26,47 @@
     "poder": "Soltar teias",
     "universo": "Marvel",
     "ativo": true
+  },
+  {
+    "id": 5,
+    "nome": "Arqueiro Verde",
+    "poder": "Flechas de raio",
+    "universo": "DC",
+    "ativo": true
+  },
+  {
+    "id": 6,
+    "nome": "Homem Invisivel",
+    "poder": "Invizibilidade",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 7,
+    "nome": "Thor",
+    "poder": "Martelo e Raios",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 8,
+    "nome": "Arqueiro Mágico",
+    "poder": "Arco e Flecha",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 9,
+    "nome": "Super Choque",
+    "poder": "Raio",
+    "universo": "DC",
+    "ativo": true
+  },
+  {
+    "id": 10,
+    "nome": "Goku",
+    "poder": "KameHameHaaaa",
+    "universo": "DBZ",
+    "ativo": true
   }
 ]
